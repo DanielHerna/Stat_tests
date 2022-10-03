@@ -1,0 +1,12 @@
+Unit test 1. Difference in proportions
+
+Data: Do husbands cheat on their wives more than wives cheat on their husbands ("Statistics brain," 2013)? 
+
+1000 husbands - 231 cheated 
+1200 wives - 176 cheated
+
+Z = 5.0704
+P-value = 2.621e-07
+CI = 0.05579805 1.00000000
+
+https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Statistics_Using_Technology_(Kozak)/09%3A_Two-Sample_Interference/9.01%3A_Two_Proportions#:~:text=Hypothesis%20Test%20for%20Two%20Populations%20Proportion%20(2%2DProp%20Test),-State%20the%20random&text=A%20simple%20random%20sample%20of,are%20satisfied%20for%20both%20populations.
