@@ -8,27 +8,24 @@
 - sample size
 - proportion
 - confidence level (defult = 0.90)
+- For bootstrap: raw data: 1-column w/ header row
 
-**Outputs**
+**Outputs** One for bootstrap, one for traditional
 - Margin or Error
-- Confidence level
-
-**Questions**
-1. What formula is used in the online reports for CL - we should ensure we match results between the two
-2. Add visual to outputs?
+- Confidence interval plus/minus
 
 ### [TAB] 1-sample Means
 
 **Inputs**
 - Full data (default)
-  - Raw column of value, from which we compute sample size, mean, and standard deviation
+  - Raw column of value, from which we compute sample size, mean, and standard deviation: 1 column w/ header
 - Via statistics (optionally)
   - sample size
   - mean
   - standard deviation
 - confidence level (defult = 0.90)
 
-**Outputs**
+**Outputs** One for bootstrap, one for traditional
 - Margin or Error
 - Confidence level
 
