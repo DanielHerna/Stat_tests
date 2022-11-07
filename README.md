@@ -18,11 +18,7 @@
 
 **Inputs**
 - Full data (default)
-  - Raw column of value, from which we compute sample size, mean, and standard deviation: 1 column w/ header
-- Via statistics (optionally)
-  - sample size
-  - mean
-  - standard deviation
+  - Raw column of value, from which we compute sample size, mean, and standard deviation
 - confidence level (defult = 0.90)
 
 **Outputs** One for bootstrap, one for traditional
@@ -52,7 +48,7 @@
 
 **Inputs**
 - Full data (default)
-  - Raw columns of values, from which we compute sample size, mean, and standard deviation, two columns max
+  - Raw columns of values, from which we compute sample size, mean, and standard deviation,
 - Via statistics (optionally)
   - sample sizes for each segment
   - means
