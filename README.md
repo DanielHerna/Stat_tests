@@ -1,5 +1,9 @@
 # Stat testing Survey and conjoint results
 
+## Link to the online notebook: 
+
+https://colab.research.google.com/drive/1NwFehyajQJjo-ZTi6iv_AlgH87cwDMrL#scrollTo=3fMMNpQzeYWz
+
 ## Survey data (Questions or other metrics such as response time)
 
 ### [TAB] 1-sample proportions
