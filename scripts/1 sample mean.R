@@ -11,7 +11,7 @@ library('mosaic')
 M0<-40          #Hypothesized mean, value to compare
 alpha=0.1       #Level of significance
 
-#------------------------------ run this code, data must be 2x2, ID and the numerical variable --------------------
+#------------------------------ run this code, data must be nx2, ID and the numerical variable --------------------
 
 data<-read.csv(file.choose(),sep = ',')
 sample_size<-nrow(data)
@@ -31,7 +31,7 @@ rm(list = ls())
 alpha=0.1       #Level of significance
 iterations<-10000
 
-#------------------------------ run this code, data must be dim 2x2, ID and the numerical variable --------------------
+#------------------------------ run this code, data must be dim nx2, ID and the numerical variable --------------------
 
 data<-read.csv(file.choose(),sep = ',')
 
